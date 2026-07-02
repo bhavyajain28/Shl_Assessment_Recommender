@@ -186,21 +186,6 @@ def _clarify_count(history: list[dict]) -> int:
     return sum(1 for t in _prior_assistant_texts(history) if t in canned)
 
 
-def _mid_legitimate_flow(history: list[dict]) -> bool:
-    """True if we already asked a clarifying question or gave a shortlist
-    earlier in this conversation. Since those replies are our own fixed
-    templates (never LLM free text), a prior occurrence is a hard guarantee
-    the conversation was in scope up to this point -- so the CURRENT user
-    message is almost certainly an answer/continuation, not a new off-topic
-    ask. Used as a safety net against small/free LLMs misjudging in_scope by
-    looking at a short reply (e.g. "mid-level, 4 years") in isolation."""
-    canned = set(prompts.CLARIFY_QUESTIONS.values())
-    return any(
-        t in canned or t.startswith("Here are") or t.startswith("Updated the shortlist")
-        for t in _prior_assistant_texts(history)
-    )
-
-
 class Agent:
     def __init__(self, retriever: Retriever | None = None, llm: LLMClient | None = None):
         self.retriever = retriever or Retriever()
@@ -224,8 +209,7 @@ class Agent:
 
         if regex_injection or facts.get("prompt_injection"):
             return ChatResponse(reply=prompts.INJECTION_REFUSAL, recommendations=[], end_of_conversation=False)
-        llm_flagged_offtopic = not facts.get("in_scope", True)
-        if regex_offtopic or (llm_flagged_offtopic and not _mid_legitimate_flow(history)):
+        if regex_offtopic or not facts.get("in_scope", True):
             return ChatResponse(reply=prompts.SCOPE_REFUSAL, recommendations=[], end_of_conversation=False)
 
         if facts.get("intent") == "compare" and len(facts.get("comparison_targets", [])) >= 2:
