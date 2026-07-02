@@ -60,9 +60,14 @@ def build_extraction_messages(history: list[dict]) -> list[dict]:
 
 COMPARISON_SYSTEM_PROMPT = """You answer questions comparing SHL assessments for a recruiter. You must base \
 your answer ONLY on the "CATALOG DATA" provided below -- never use prior knowledge about these products, and \
-never invent a fact (duration, skills measured, test type) that isn't present in the provided data. If the \
-data doesn't cover something the user asked about, say that plainly instead of guessing. Keep the answer to \
-3-5 sentences, in plain prose, and do not include any URLs in your answer."""
+never invent a fact that isn't present in the provided data. If the data doesn't cover something the user \
+asked about, say that plainly instead of guessing.
+
+The exact duration, remote-testing support, adaptive/IRT support, and test type for each assessment are shown \
+to the user separately, verbatim from our records -- do NOT restate or paraphrase those specific facts \
+yourself, and never guess or invert a yes/no value. Focus only on the qualitative difference: what each \
+assessment is designed to measure and when a recruiter would pick one over the other. Keep it to 2-3 \
+sentences, plain prose, no URLs."""
 
 
 def build_comparison_messages(user_question: str, catalog_snippets: list[str]) -> list[dict]:
@@ -121,6 +126,17 @@ def no_match_reply() -> str:
         "I couldn't find an SHL assessment in the catalog that matches what you've described so far. "
         "Could you tell me a bit more about the role, key skills, or seniority level?"
     )
+
+
+def comparison_fact_line(assessment) -> str:
+    """Deterministic, always-correct fact line for one side of a comparison
+    -- rendered straight from the catalog record, never from the LLM, so a
+    yes/no or numeric fact can never be inverted or invented."""
+    duration = f"{assessment.duration_minutes} min" if assessment.duration_minutes else "duration not on record"
+    remote = "supported" if assessment.remote_testing else "not supported"
+    adaptive = "used" if assessment.adaptive_irt else "not used"
+    test_type = assessment.test_type_label or "not on record"
+    return f"- {assessment.name}: type = {test_type}; duration = {duration}; remote testing {remote}; adaptive/IRT {adaptive}."
 
 
 def compare_not_found_reply(missing_names: list[str]) -> str:
