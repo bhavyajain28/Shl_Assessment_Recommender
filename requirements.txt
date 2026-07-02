@@ -1,3 +1,11 @@
+# CPU-only torch build: plain PyPI `torch` also pulls several NVIDIA CUDA
+# packages as dependencies on Linux (nvidia-cublas, nvidia-cudnn, etc, each
+# hundreds of MB) even though we never use a GPU. Pinning the +cpu wheel from
+# PyTorch's own index avoids all of that -- crucial for fitting Azure App
+# Service's disk/memory limits.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.12.1+cpu
+
 fastapi==0.115.6
 uvicorn[standard]==0.32.1
 pydantic==2.10.3
