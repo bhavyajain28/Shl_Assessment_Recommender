@@ -74,6 +74,14 @@ class LLMClient:
             api_key=settings.llm_api_key or "unset",
             base_url=settings.resolved_base_url,
             timeout=settings.llm_timeout_seconds,
+            # The SDK's own retry-with-backoff (default: 2 retries, honoring
+            # provider Retry-After hints) can sleep 15-30s+ per attempt on a
+            # 429 -- multiplied by our own tenacity retry below, that blows
+            # well past the 30s per-call budget the assignment specifies.
+            # We already retry (fast, bounded) at the _complete level, so
+            # disable the SDK's internal one entirely and fail fast to the
+            # rule-based fallback instead of hanging.
+            max_retries=0,
         )
 
     @retry(stop=stop_after_attempt(2), wait=wait_exponential(multiplier=0.5, max=3), reraise=True)
