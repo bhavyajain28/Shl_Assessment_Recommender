@@ -1,0 +1,2 @@
+Microsoft SQL Server 2014 Programming | Microsoft SQL Server 2014 Programming is an SHL Knowledge & Skills assessment. It measures: SQL. Approximate completion time is 35 minutes. Remote testing is supported. Adaptive/IRT scoring is used. | Knowledge & Skills | SQL | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-2014-programming/

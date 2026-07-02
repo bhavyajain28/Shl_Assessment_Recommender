@@ -1,0 +1,2 @@
+Microsoft Windows Server 2012 Administration | Microsoft Windows Server 2012 Administration is an SHL Knowledge & Skills assessment. Approximate completion time is 35 minutes. Remote testing is supported. Adaptive/IRT scoring is used. | Knowledge & Skills | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/

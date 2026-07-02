@@ -1,0 +1,2 @@
+Apache Hadoop Extensions (New) | Apache Hadoop Extensions (New) is an SHL Knowledge & Skills assessment. It measures: Big Data. Approximate completion time is 9 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | Big Data | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/

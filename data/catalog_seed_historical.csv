@@ -1,0 +1,366 @@
+data-entity-id,Assessment Name,Relative URL,Remote Testing,Adaptive/IRT,Test Type,Assessment Length
+4302,Global Skills Development Report,https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,,
+3827,.NET Framework 4.5,https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 30
+4094,.NET MVC (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+4099,.NET MVVM (New),https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4018,.NET WCF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4016,.NET WPF (New),https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4165,.NET XAML (New),https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4178,Accounts Payable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4187,Accounts Payable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 8
+4179,Accounts Receivable (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4188,Accounts Receivable Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 8
+4168,ADO.NET (New),https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4019,Adobe Experience Manager (New),https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+3778,Adobe Photoshop CC,https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 20
+4069,Aeronautical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4004,Aerospace Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4223,Agile Software Development,https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7 minutes
+4159,Agile Testing (New),https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4311,AI Skills,https://www.shl.com/solutions/products/product-catalog/view/ai-skills/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = 16
+4028,Amazon Web Services (AWS) Development (New),https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4160,Android Development (New),https://www.shl.com/solutions/products/product-catalog/view/android-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4153,Angular 6 (New),https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4021,AngularJS (New),https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4030,Apache Hadoop (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4011,Apache Hadoop Extensions (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4073,Apache HBase (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4075,Apache Hive (New),https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4022,Apache Kafka (New),https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4115,Apache Pig (New),https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4023,Apache Spark (New),https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4017,ASP .NET with C# (New),https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+3786,ASP.NET 4.5,https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 30
+4219,Assessment and Development Center Exercises,https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/,Yes,No,Assessment Exercises,Approximate Completion Time in minutes = Variable
+3980,Automata - Fix (New),https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 20
+3981,Automata - SQL (New),https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 30
+3984,Automata (New),https://www.shl.com/solutions/products/product-catalog/view/automata-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 45
+3982,Automata Data Science (New),https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 60
+3983,Automata Data Science Pro (New),https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 60
+4222,Automata Front End,https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/,Yes,No,Simulations,Approximate Completion Time in minutes = 30 minutes
+3985,Automata Pro (New),https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/,Yes,No,Simulations,Approximate Completion Time in minutes = max 60
+4229,Automata Selenium,https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/,Yes,No,Simulations,Approximate Completion Time in minutes = 60
+4026,Automation Anywhere RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4025,Automotive Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+3988,Basic Biology (New),https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4206,Basic Computer Literacy (Windows 10) (New),https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/,Yes,No,,Approximate Completion Time in minutes = 30
+4149,Basic Statistics (New),https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4161,Biochemistry (New),https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4036,Biotech Lab Techniques (New),https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4037,BizTalk (New),https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 16
+244,Business Communication (adaptive),https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 24
+536,Business Communications,https://www.shl.com/solutions/products/product-catalog/view/business-communications/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 35
+4038,C Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4039,C# Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4122,C++ Programming (New),https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4077,Cardiology and Diabetes Management (New),https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+4044,Ceramic Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4012,Chemical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4024,Cisco AppDynamics (New),https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4150,Civil Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4045,Cloud Computing (New),https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4046,COBOL Programming (New),https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4104,Computer Science (New),https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4189,Contact Center Call Simulation (New),https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 15
+4296,Conversational Multichat Simulation,https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,Simulations,Approximate Completion Time in minutes = 11
+4034,Core Java (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4032,Core Java (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+3458,Count Out The Money,https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/,Yes,Yes,,Approximate Completion Time in minutes = 5
+4052,CSS3 (New),https://www.shl.com/solutions/products/product-catalog/view/css3-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4050,Culinary Skills (New),https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+3933,Customer Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,,Approximate Completion Time in minutes = 20
+3931,Customer Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,,Approximate Completion Time in minutes = 30
+4053,Cyber Risk (New),https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4186,Data Entry (New),https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 4
+778,Data Entry Alphanumeric Split Screen - US,https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+779,Data Entry Numeric Split Screen - US,https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+785,Data Entry Ten Key Split Screen,https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 3
+4013,Data Science (New),https://www.shl.com/solutions/products/product-catalog/view/data-science-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 14
+56,Data Warehousing Concepts,https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 25
+731,Dependability and Safety Instrument (DSI),https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = 10
+4162,Dermatology (New),https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 3
+4101,Desktop Support (New),https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4003,Digital Advertising (New),https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4221,Digital Readiness Development Report - IC,https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/,Yes,No,Personality & Behavior,
+4239,Digital Readiness Development Report - Manager,https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/,Yes,No,Personality & Behavior,
+4059,Docker (New),https://www.shl.com/solutions/products/product-catalog/view/docker-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4060,Dojo (New),https://www.shl.com/solutions/products/product-catalog/view/dojo-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4062,Drupal (New),https://www.shl.com/solutions/products/product-catalog/view/drupal-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+1102,DSI v1.1 Interpretation Report,https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/,Yes,No,Personality & Behavior,
+4148,Econometrics (New),https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4009,Economics (New),https://www.shl.com/solutions/products/product-catalog/view/economics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4001,Electrical and Electronics Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 14
+4031,Electrical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4002,Electronics & Telecommunications Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+4000,Electronics and Embedded Systems Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 18
+4139,Electronics and Semiconductor Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4180,English Comprehension (New),https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 0
+4063,Enterprise Java Beans (New),https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+3856,Enterprise Leadership Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/,Yes,No,Personality & Behavior,
+4287,Enterprise Leadership Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/,Yes,No,Personality & Behavior,
+3934,Entry Level Cashier Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/,Yes,No,,Approximate Completion Time in minutes = 19
+3939,Entry Level Customer Serv-Retail & Contact Center,https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/,Yes,No,,Approximate Completion Time in minutes = 19
+3935,Entry Level Customer Service (General) Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/,Yes,No,,Approximate Completion Time in minutes = 14
+3936,Entry Level Hotel Front Desk Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/,Yes,No,,Approximate Completion Time in minutes = 20
+3937,Entry Level Sales Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/,Yes,No,,Approximate Completion Time in minutes = 20
+3938,Entry Level Technical Support Solution,https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/,Yes,No,,Approximate Completion Time in minutes = 18
+4065,ETL Testing (New),https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+743,Executive Scenarios,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/,Yes,No,Biodata & Situational Judgement,Approximate Completion Time in minutes = Untimed
+3849,Executive Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/,Yes,No,Biodata & Situational Judgement,
+3899,Executive Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/,Yes,No,Biodata & Situational Judgement,
+4127,ExpressJS (New),https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+380,Filing - Names (R1),https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 3
+381,Filing - Numbers,https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 3
+3992,Financial Accounting (New),https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4083,Financial and Banking Services (New),https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4067,Fire Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+382,Following Instructions v1 - UK (R1),https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+383,Following Instructions v1 - US (R2),https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4090,Food and Beverage Services (New),https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4071,Food Science (New),https://www.shl.com/solutions/products/product-catalog/view/food-science-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4072,Front Office Management (New),https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4113,Fundamentals of Chemistry (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4043,Fundamentals of Physics (New),https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4048,General Diseases (New),https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4125,Geoinformatics Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4066,Geoscience Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4078,GIT (New),https://www.shl.com/solutions/products/product-catalog/view/git-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4301,Global Skills Assessment,https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/,Yes,No,,Approximate Completion Time in minutes = 16
+741,Graduate Scenarios,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/,Yes,No,Biodata & Situational Judgement,Approximate Completion Time in minutes = Untimed
+3900,Graduate Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/,Yes,No,Biodata & Situational Judgement,
+3901,Graduate Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/,Yes,No,Biodata & Situational Judgement,
+4074,Hibernate (New),https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+331,HIPAA (Security),https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 15 to 35
+3845,HiPo Assessment Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,,
+4284,HiPo Assessment Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,,
+4285,HiPo Unlocking Potential Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,Competencies,
+4076,Housekeeping (New),https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4080,HTML/CSS (New),https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4081,HTML5 (New),https://www.shl.com/solutions/products/product-catalog/view/html5-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+3999,Human Resources (New),https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4169,IBM DataStage (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+4155,IBM Sterling Order Management System (New),https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4005,Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4054,Informatica (Architecture) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4055,Informatica (Developer) (New),https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4086,Jenkins (New),https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4085,Job Control Language (New),https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4087,jQuery (New),https://www.shl.com/solutions/products/product-catalog/view/jquery-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4152,Kubernetes (New),https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+3990,Linux Administration (New),https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4299,Linux Operating System,https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+205,Linux Programming (General),https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 25
+4170,Load Runner (New),https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+742,Management Scenarios,https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/,Yes,No,Biodata & Situational Judgement,Approximate Completion Time in minutes = Untimed
+3903,Managerial Scenarios Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/,Yes,No,Biodata & Situational Judgement,
+3902,Managerial Scenarios Narrative Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/,Yes,No,Biodata & Situational Judgement,
+3904,Managerial Scenarios Profile Report,https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/,Yes,No,Biodata & Situational Judgement,
+4157,Manual Testing (New),https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4291,Manufac. & Indust. - Mechanical & Vigilance 8.0,https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/,Yes,No,,Approximate Completion Time in minutes = 49
+4293,Manufac. & Indust. - Safety & Dependability 8.0,https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = 16
+4295,Manufacturing & Industrial - Essential Focus 8.0,https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = 16
+4292,Manufacturing & Industrial - Mechanical Focus 8.0,https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/,Yes,No,,Approximate Completion Time in minutes = 31
+4294,Manufacturing & Industrial - Vigilance Focus 8.0,https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/,Yes,No,,Approximate Completion Time in minutes = 34
+4008,Marketing (New),https://www.shl.com/solutions/products/product-catalog/view/marketing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4089,Maven (New),https://www.shl.com/solutions/products/product-catalog/view/maven-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4006,Mechanical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4176,Mechatronics Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 19
+4058,Medical Terminology (New),https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 3
+4119,Metallurgical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+3951,MFS 360 Enterprise Leadership Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/,Yes,No,Development & 360,
+3950,MFS 360 UCF Group Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/,Yes,No,Development & 360,
+3949,MFS 360 UCF Performance Potential Dev Tips Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/,Yes,No,Development & 360,
+3948,MFS 360 UCF Standard Report,https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/,Yes,No,Development & 360,
+4027,Micro Focus Unified Functional Testing (New),https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4091,Microservices (New),https://www.shl.com/solutions/products/product-catalog/view/microservices-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4092,Microsoft Dynamics Development (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4208,Microsoft Excel 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/,Yes,No,,Approximate Completion Time in minutes = 30
+4207,Microsoft Excel 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/,Yes,No,,Approximate Completion Time in minutes = 35
+3785,Microsoft Outlook 2013 (adaptive),https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 25
+4212,Microsoft PowerPoint 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/,Yes,No,,Approximate Completion Time in minutes = 25
+3789,Microsoft SQL Server 2014 Programming,https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-2014-programming/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 35
+3807,Microsoft Windows Server 2012 Administration,https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 35
+4211,Microsoft Word 365 - Essentials (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,,Approximate Completion Time in minutes = 25
+4210,Microsoft Word 365 (New),https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,,Approximate Completion Time in minutes = 35
+4047,Mineral Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4093,Mining Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 16
+4174,Mobility (New),https://www.shl.com/solutions/products/product-catalog/view/mobility-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4096,Molecular Biology (New),https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4010,MongoDB (New),https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+724,Motivation Questionnaire MQM5,https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,Personality & Behavior,"Approximate Completion Time in minutes = Untimed, approx. 25"
+1308,MQ Candidate Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,Personality & Behavior,
+1306,MQ Employee Motivation Report,https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,Personality & Behavior,
+1309,MQ Motivation Report Pack,https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,Personality & Behavior,
+1048,MQ Profile,https://www.shl.com/solutions/products/product-catalog/view/mq-profile/,Yes,No,Personality & Behavior,
+4015,MS Access (New),https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+3993,MS Excel (New),https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+3995,MS Office Basic Computer Literacy (New),https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4193,MS Office Basic Computer Literacy (Sim) (New),https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 5
+4097,MS PowerPoint (New),https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+3994,MS Word (New),https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+4098,MuleSoft Development (New),https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+615,Multitasking Ability,https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/,Yes,No,,Approximate Completion Time in minutes = 20
+4100,Networking and Implementation (New),https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+3997,Node.js (New),https://www.shl.com/solutions/products/product-catalog/view/node-js-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4041,Nursing (New),https://www.shl.com/solutions/products/product-catalog/view/nursing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+720,Occupational Personality Questionnaire OPQ32r,https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/,Yes,No,Personality & Behavior,"Approximate Completion Time in minutes = Untimed, approx. 25"
+4116,Operations Management (New),https://www.shl.com/solutions/products/product-catalog/view/operations-management-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+727,OPQ Candidate Plus Report,https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/,Yes,No,Personality & Behavior,
+4298,OPQ Candidate Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-report-2-0/,Yes,No,Personality & Behavior,
+748,OPQ Emotional Intelligence Report,https://www.shl.com/solutions/products/product-catalog/view/opq-emotional-intelligence-report/,Yes,No,Personality & Behavior,
+749,OPQ Leadership Report,https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/,Yes,No,Personality & Behavior,
+750,OPQ Manager Plus Report,https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/,Yes,No,Personality & Behavior,
+4300,OPQ Manager Plus Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/,Yes,No,Personality & Behavior,
+752,OPQ Maximising your Learning Report,https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/,Yes,No,Personality & Behavior,
+754,OPQ MQ Sales Report,https://www.shl.com/solutions/products/product-catalog/view/opq-mq-sales-report/,Yes,No,Personality & Behavior,
+753,OPQ Premium Plus Report,https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report/,Yes,No,Personality & Behavior,
+4307,OPQ Premium Plus Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/,Yes,No,Personality & Behavior,
+1050,OPQ Profile Report,https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/,Yes,No,Personality & Behavior,
+1060,OPQ Team Impact Group Development Report,https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/,Yes,No,Personality & Behavior,
+1059,OPQ Team Impact Individual Development Report,https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/,Yes,No,Personality & Behavior,
+1058,OPQ Team Impact Selection Report,https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/,Yes,No,Personality & Behavior,
+1061,OPQ Team Types & Leadership Styles Profile,https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/,Yes,No,Personality & Behavior,
+756,OPQ Team Types and Leadership Styles Report,https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/,Yes,No,Personality & Behavior,
+757,OPQ UCF Development Action Planner Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/,Yes,No,Personality & Behavior,
+4286,OPQ UCF Development Action Planner Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/,Yes,No,Personality & Behavior,
+758,OPQ Universal Competency Report 1.0,https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/,Yes,No,Personality & Behavior,
+4289,OPQ Universal Competency Report 2.0,https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/,Yes,No,Personality & Behavior,
+1067,OPQ User and Managers Report,https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/,Yes,No,Personality & Behavior,
+759,OPQ User Report,https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/,Yes,No,,
+4106,Oracle DBA (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4105,Oracle DBA (Entry Level) (New),https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4145,Oracle PL/SQL (New),https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4156,Oracle WebLogic Server (New),https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4154,Organic Chemistry (New),https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4107,Paint Technology (New),https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+3998,Pediatrics (New),https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4108,Pega Development (New),https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+4109,Perl (New),https://www.shl.com/solutions/products/product-catalog/view/perl-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4070,Petrochemical Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4110,Petroleum Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4088,Pharmaceutical Analysis (New),https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4114,Pharmaceutical Chemistry (New),https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 17
+4061,Pharmaceutical Science (New),https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4111,Pharmaceutics (New),https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4112,Pharmacology (New),https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4103,PHP (New),https://www.shl.com/solutions/products/product-catalog/view/php-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+3746,PJM Development Report,https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/,Yes,No,,
+3484,PJM Selection Report,https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/,Yes,No,,
+4042,Polymer Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4118,Power Electronics and Drives (New),https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+4117,Power System Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4095,Prism (New),https://www.shl.com/solutions/products/product-catalog/view/prism-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+4121,Production and Industrial Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4120,Production Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+219,Programming Concepts,https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 25
+3769,Project Management (2013),https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 30
+393,Proofreading v1,https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 6
+4123,Python (New),https://www.shl.com/solutions/products/product-catalog/view/python-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4124,R Programming (New),https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 13
+4177,ReactJS (New),https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+3472,Reading Comprehension - English v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 35
+543,Reading Comprehension - Spanish v1,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 26
+3942,Reading Comprehension v2,https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 35
+4204,RemoteWorkQ,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/,Yes,No,Competencies,Approximate Completion Time in minutes = 10
+4202,RemoteWorkQ Manager Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/,Yes,No,Competencies,
+4203,RemoteWorkQ Participant Report,https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/,Yes,No,Competencies,
+4126,RESTful Web Services (New),https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+697,Retail Sales and Service Simulation,https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/,Yes,No,,Approximate Completion Time in minutes = 30
+395,Reviewing Forms - US (R1),https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4129,Ruby (New),https://www.shl.com/solutions/products/product-catalog/view/ruby-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4128,Ruby on Rails (New),https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+3932,Sales & Service Phone Simulation,https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/,Yes,No,,Approximate Completion Time in minutes = 20
+3930,Sales & Service Phone Solution,https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/,Yes,No,,Approximate Completion Time in minutes = 35
+726,Sales Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/,Yes,No,,Approximate Completion Time in minutes = Untimed
+725,Sales Profiler Cards,https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = Untimed
+4230,Sales Transformation 1.0 - Individual Contributor,https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/,Yes,No,Personality & Behavior,
+4283,Sales Transformation 2.0 - Individual Contributor,https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/,Yes,No,Personality & Behavior,
+4233,Sales Transformation Report 1.0 - Sales Manager,https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-sales-manager/,Yes,No,Personality & Behavior,
+4288,Sales Transformation Report 2.0 - Sales Manager,https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/,Yes,No,Personality & Behavior,
+4130,Salesforce Development (New),https://www.shl.com/solutions/products/product-catalog/view/salesforce-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+4131,SAP ABAP (Advanced Level) (New),https://www.shl.com/solutions/products/product-catalog/view/sap-abap-advanced-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4132,SAP ABAP (Intermediate Level) (New),https://www.shl.com/solutions/products/product-catalog/view/sap-abap-intermediate-level-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4133,SAP Basis (New),https://www.shl.com/solutions/products/product-catalog/view/sap-basis-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4136,SAP Business Objects WebI (New),https://www.shl.com/solutions/products/product-catalog/view/sap-business-objects-webi-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4134,SAP BW (Business Warehouse) (New),https://www.shl.com/solutions/products/product-catalog/view/sap-bw-business-warehouse-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4135,SAP HCM (Human Capital Management) (New),https://www.shl.com/solutions/products/product-catalog/view/sap-hcm-human-capital-management-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = TBC
+4082,SAP Hybris (New),https://www.shl.com/solutions/products/product-catalog/view/sap-hybris-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 20
+4137,SAP Materials Management (New),https://www.shl.com/solutions/products/product-catalog/view/sap-materials-management-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4064,SAP SD (Sales and Distribution) (New),https://www.shl.com/solutions/products/product-catalog/view/sap-sd-sales-and-distribution-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4171,Search Engine Optimization (New),https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4138,Selenium (New),https://www.shl.com/solutions/products/product-catalog/view/selenium-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4140,Shell Scripting (New),https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+3968,SHL Verify Interactive - Inductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/,Yes,Yes,,Approximate Completion Time in minutes = 20
+3947,SHL Verify Interactive – Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/,Yes,Yes,,Approximate Completion Time in minutes = 20
+3946,SHL Verify Interactive – Numerical Reasoning,https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/,Yes,Yes,,Approximate Completion Time in minutes = 20
+3971,SHL Verify Interactive G+,https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 36
+3972,SHL Verify Interactive Numerical Calculation,https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 10
+4141,Siebel Development (New),https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4209,Smart Interview Live,https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = Variable
+4218,Smart Interview Live Coding,https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = Variable
+4205,Smart Interview On Demand,https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = Variable
+4014,Social Media (New),https://www.shl.com/solutions/products/product-catalog/view/social-media-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+116,Software Business Analysis,https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 30
+4142,SonarQube (New),https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = TBC
+4051,Spelling (U.S.) (New),https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 0
+40,Split Screen Typing Test - Form 1,https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/,Yes,No,,Approximate Completion Time in minutes = 6
+4143,Spring (New),https://www.shl.com/solutions/products/product-catalog/view/spring-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4144,SQL (New),https://www.shl.com/solutions/products/product-catalog/view/sql-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4035,SQL Server (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4282,SQL Server Analysis Services (SSAS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 15
+4146,SQL Server Integration Services (SSIS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+4147,SQL Server Reporting Services (SSRS) (New),https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+3996,Statistical Analysis System (New),https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 11
+4151,Struts (New),https://www.shl.com/solutions/products/product-catalog/view/struts-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4216,SVAR - Spoken English (AUS),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-aus/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+3986,SVAR - Spoken English (Indian Accent)  (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4217,SVAR - Spoken English (U.K.),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-u-k/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+3987,SVAR - Spoken English (US)  (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-us-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4197,SVAR - Spoken French (Canadian) (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-canadian-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4198,SVAR - Spoken French (European) (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-european-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4199,SVAR - Spoken Spanish (Castilian) (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-castilian-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4200,SVAR - Spoken Spanish (North American) (New),https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-north-american-new/,Yes,No,Simulations,Approximate Completion Time in minutes = -
+4049,Swing (New),https://www.shl.com/solutions/products/product-catalog/view/swing-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 4
+4079,Tableau (New),https://www.shl.com/solutions/products/product-catalog/view/tableau-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+4020,Telecommunications Engineering (New),https://www.shl.com/solutions/products/product-catalog/view/telecommunications-engineering-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+4167,Teradata Development (New),https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+251,Time Management (U.S.),https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 15 to 35
+336,Training Development,https://www.shl.com/solutions/products/product-catalog/view/training-development/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 15 to 35
+4201,Typing (New),https://www.shl.com/solutions/products/product-catalog/view/typing-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 2
+4175,UiPath RPA Development (New),https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 8
+735,Universal Competency Framework Interview Guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/,Yes,No,,
+734,Universal Competency Framework Job profiling guide,https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/,Yes,No,,Approximate Completion Time in minutes = Untimed
+733,Universal Competency Framework Profiler Cards (44),https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/,Yes,No,,Approximate Completion Time in minutes = Untimed
+4172,UNIX (New),https://www.shl.com/solutions/products/product-catalog/view/unix-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4173,VB.NET (New),https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 10
+3733,Verify - Deductive Reasoning,https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 20
+3941,Verify - Following Instructions,https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/,Yes,No,Ability & Aptitude,Approximate Completion Time in minutes = 8
+3908,Verify - G+,https://www.shl.com/solutions/products/product-catalog/view/verify-g/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 36
+3734,Verify - General Ability Screen,https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 10
+3836,Verify - Inductive Reasoning (2014),https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 24
+3745,Verify - Numerical Ability,https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 20
+3768,Verify - Technical Checking - Next Generation,https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/,Yes,No,Ability & Aptitude,Approximate Completion Time in minutes = 5
+3906,Verify - Verbal Ability - Next Generation,https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/,Yes,Yes,Ability & Aptitude,Approximate Completion Time in minutes = 15 minutes
+3940,Verify - Working with Information,https://www.shl.com/solutions/products/product-catalog/view/verify-working-with-information/,Yes,No,Ability & Aptitude,Approximate Completion Time in minutes = 10
+3945,Verify G+ - Ability Test Report,https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test-report/,Yes,No,Ability & Aptitude,
+3970,Verify G+ - Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/verify-g-candidate-report/,Yes,No,Ability & Aptitude,
+3969,Verify Interactive Ability Report,https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/,Yes,No,Ability & Aptitude,
+3976,Verify Interactive G+ Candidate Report,https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/,Yes,No,Ability & Aptitude,
+3974,Verify Interactive G+ Report,https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-report/,Yes,No,Ability & Aptitude,
+4290,Verify Interactive Process Monitoring,https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/,Yes,No,Ability & Aptitude,Approximate Completion Time in minutes = 18
+4215,Virtual Assessment and Development Centers,https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/,Yes,No,Personality & Behavior,Approximate Completion Time in minutes = N/A
+4163,Visual Basic for Applications (New),https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 7
+399,Visual Comparison - UK,https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+400,Visual Comparison - US,https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 5
+4164,VLSI and Embedded Systems (New),https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+3459,What Is The Value - US,https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 5
+3991,Workplace Administration Skills (New),https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 12
+4068,Workplace Health and Safety (New),https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4183,WriteX - Email Writing (Customer Service) (New),https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 15
+4184,WriteX - Email Writing (Managerial) (New),https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/,Yes,No,Simulations,Approximate Completion Time in minutes = 15
+4185,WriteX - Email Writing (Sales) (New),https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/,Yes,No,,Approximate Completion Time in minutes = 15
+17,Written English v1,https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 30
+18,Written Spanish,https://www.shl.com/solutions/products/product-catalog/view/written-spanish/,Yes,Yes,Knowledge & Skills,Approximate Completion Time in minutes = 22
+4166,Zabbix (New),https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/,Yes,No,Knowledge & Skills,Approximate Completion Time in minutes = 9
+4297,360 Digital Report,https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/,Yes,No,Development & 360,
+744,360° Multi-Rater Feedback System (MFS),https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/,Yes,No,,Approximate Completion Time in minutes = Untimed

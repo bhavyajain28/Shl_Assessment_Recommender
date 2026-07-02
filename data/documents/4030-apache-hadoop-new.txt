@@ -1,0 +1,2 @@
+Apache Hadoop (New) | Apache Hadoop (New) is an SHL Knowledge & Skills assessment. It measures: Big Data. Approximate completion time is 7 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | Big Data | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/

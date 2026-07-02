@@ -1,0 +1,2 @@
+SQL (New) | SQL (New) is an SHL Knowledge & Skills assessment. It measures: SQL. Approximate completion time is 9 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | SQL | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/sql-new/

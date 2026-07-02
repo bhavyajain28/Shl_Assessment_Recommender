@@ -1,0 +1,2 @@
+SQL Server Analysis Services (SSAS) (New) | SQL Server Analysis Services (SSAS) (New) is an SHL Knowledge & Skills assessment. It measures: SQL. Approximate completion time is 15 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | SQL | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/

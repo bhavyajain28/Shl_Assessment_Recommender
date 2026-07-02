@@ -1,0 +1,2 @@
+Automata Front End | Automata Front End is an SHL Simulations assessment. Approximate completion time is 30 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Simulations | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/

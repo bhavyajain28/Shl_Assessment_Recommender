@@ -1,0 +1,2 @@
+Kubernetes (New) | Kubernetes (New) is an SHL Knowledge & Skills assessment. It measures: DevOps. Approximate completion time is 6 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | DevOps | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/

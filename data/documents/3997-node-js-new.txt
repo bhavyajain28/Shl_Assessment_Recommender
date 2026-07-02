@@ -1,0 +1,2 @@
+Node.js (New) | Node.js (New) is an SHL Knowledge & Skills assessment. It measures: Node.js. Approximate completion time is 9 minutes. Remote testing is supported. Adaptive/IRT scoring is not used. | Knowledge & Skills | Node.js | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/node-js-new/

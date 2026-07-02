@@ -1,0 +1,2 @@
+.NET Framework 4.5 | .NET Framework 4.5 is an SHL Knowledge & Skills assessment. It measures: .NET. Approximate completion time is 30 minutes. Remote testing is supported. Adaptive/IRT scoring is used. | Knowledge & Skills | .NET | General/Mid-Professional
+url: https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/
